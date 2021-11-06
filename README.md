@@ -1,6 +1,6 @@
 # python-scatter-plot
 
-Python Scatter plot using `matplotlib - pyplot` module combine with numpy for best of fit line.
+Python Scatter plot using `matplotlib - pyplot` module combine with numpy for line of best fit.
 
 ```python
 plt.scatter(x, y)
